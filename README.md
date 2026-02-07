@@ -15,7 +15,7 @@
 ---
 
 ### 🚀 Sobre mim
-- 🎓 Cursando **Informática para Internet** no IFRN.
+- 🎓 Cursado **Informática para Internet** no IFRN.
 - 🔭 Atualmente focado em aprender **Back-end com Python**.
 - 🌱 Estudando: **HTML, CSS e Lógica de Programação**.
 - 💬 Gosto de resolver problemas e colaborar em projetos de equipe.
