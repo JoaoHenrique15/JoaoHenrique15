@@ -1,10 +1,10 @@
 <div align="center">
   
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0077B5&height=200&section=header&text=João%20Henrique&fontSize=90&animation=fadeIn&fontAlignY=38" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0077B5&height=150&section=header" width="100%" />
 
   <h1> Olá, sou o João Henrique! 👋 </h1>
   
-  <p>Estudante de <b>Programação de Sistemas para Internet</b></p>
+  <p>Estudante de <b>Informática para Internet</b></p>
 
   <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=0077B5&center=true&vCenter=true&width=435&lines=Desenvolvedor+em+forma%C3%A7%C3%A3o;Focado+em+Python+e+Web;Sempre+aprendendo+coisas+novas" alt="Typing SVG" />
@@ -15,7 +15,7 @@
 ---
 
 ### 🚀 Sobre mim
-- 🎓 Cursando **Sistemas para Internet** no IFRN.
+- 🎓 Cursando **Informática para Internet** no IFRN.
 - 🔭 Atualmente focado em aprender **Back-end com Python**.
 - 🌱 Estudando: **HTML, CSS e Lógica de Programação**.
 - 💬 Gosto de resolver problemas e colaborar em projetos de equipe.
