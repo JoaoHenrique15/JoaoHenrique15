@@ -1,32 +1,28 @@
 <div align="center">
   
-  <img src="https://fontmeme.com/permalink/240523/6e6e8e8e6e6e8e8e6e6e8e8e6e6e8e8e.png" width="300" />
-  
-  <br>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0077B5&height=200&section=header&text=João%20Henrique&fontSize=90&animation=fadeIn&fontAlignY=38" width="100%" />
 
-  <img src="https://raw.githubusercontent.com/Ashutosh049/Ashutosh049/master/assets/minecraft.gif" width="60%" />
-
-  <h1> Olá, sou o João Henrique! 🧱 </h1>
+  <h1> Olá, sou o João Henrique! 👋 </h1>
   
   <p>Estudante de <b>Programação de Sistemas para Internet</b></p>
 
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=388E3C&center=true&vCenter=true&width=435&lines=Crafting+code+with+Python;Construindo+o+futuro+Web;Explorando+novos+biomas+de+c%C3%B3digo" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=0077B5&center=true&vCenter=true&width=435&lines=Desenvolvedor+em+forma%C3%A7%C3%A3o;Focado+em+Python+e+Web;Sempre+aprendendo+coisas+novas" alt="Typing SVG" />
   </a>
 
 </div>
 
 ---
 
-### ⛏️ Meu Inventário (Sobre mim)
+### 🚀 Sobre mim
 - 🎓 Cursando **Sistemas para Internet** no IFRN.
-- 🔭 Focado em **Back-end Python** e arquitetura Web.
-- 🌱 Atualmente minerando conhecimentos em **HTML, CSS e Logic**.
-- 💬 Gosto de trabalhar em equipe para construir grandes projetos.
+- 🔭 Atualmente focado em aprender **Back-end com Python**.
+- 🌱 Estudando: **HTML, CSS e Lógica de Programação**.
+- 💬 Gosto de resolver problemas e colaborar em projetos de equipe.
 
 ---
 
-### 🛠️ Ferramentas e Itens
+### 🛠️ Tecnologias e Ferramentas
 
 <div align="center">
   <img align="center" alt="Python" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
@@ -38,18 +34,12 @@
 
 ---
 
-### 📬 Mande um Whisper (Contato)
+### 📬 Contato
 <div align="center">
-  <a href="mailto:SEU_EMAIL_AQUI@gmail.com">
+  <a href="mailto:SEU_EMAIL@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
-  <a href="https://www.linkedin.com/in/SEU_LINKEDIN_AQUI">
+  <a href="https://www.linkedin.com/in/SEU_LINKEDIN">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
-</div>
-
-<br>
-
-<div align="center">
-  <img src="https://raw.githubusercontent.com/Stephan-S/Stephan-S/master/minecraft-creeper.gif" width="50" />
 </div>
