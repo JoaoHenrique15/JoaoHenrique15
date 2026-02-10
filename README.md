@@ -16,8 +16,7 @@
 
 ### 🚀 Sobre mim
 - 🎓 Cursado **Informática para Internet** no IFRN.
-- 🔭 Atualmente focado em aprender **Back-end com Python**.
-- 🌱 Estudando: **HTML, CSS e Lógica de Programação**.
+- 🔭 Atualmente focado em **Back-end com Python**.
 - 💬 Gosto de resolver problemas e colaborar em projetos de equipe.
 
 ---
@@ -42,4 +41,10 @@
   <a href="https://www.linkedin.com/in/SEU_LINKEDIN">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
+</div>
+
+<br>
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/JoaoHenrique15/JoaoHenrique15/output/pacman-contribution-graph.svg" alt="Pac-Man Contribution Graph" width="100%"/>
 </div>
